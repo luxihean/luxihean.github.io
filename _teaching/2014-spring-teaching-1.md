@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "South China University of Technology , SHIEN-MING WU SCHOOL OF INTELLIGENT ENGINEERING"
-date: 2021-09--2025-07
+date: 2021-09-04
 location: "Guangzhou, China"
 ---
 
