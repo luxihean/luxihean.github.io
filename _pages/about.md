@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to a joker's page"
+title: "Welcome to a joker/page"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
