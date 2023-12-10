@@ -13,4 +13,4 @@ Hi everyone! I'm a third year undergraduate student from South China University 
 Email: youyiqi258@gmail.com
   Tel: +86-18861089518
 
-[Email](mailto:youyiqi258@gmail.com) / [Github](https://github.com/luxihean) / [Wechat](../images/Wechat.jpg) / [Phone](+86-18861089518)
+[Email](mailto:youyiqi258@gmail.com) / [Github](https://github.com/luxihean) / [Wechat](../images/Wechat.jpg)
