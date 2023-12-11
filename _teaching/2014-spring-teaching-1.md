@@ -1,7 +1,7 @@
 ---
 title: "Teaching experience 1"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate"
 permalink: /teaching/2014-spring-teaching-1
 venue: "South China University of Technology , SHIEN-MING WU SCHOOL OF INTELLIGENT ENGINEERING"
 date: 2021-09-04
