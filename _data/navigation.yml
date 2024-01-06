@@ -1,4 +1,4 @@
-# main links links
+t# main links links
 main:
   - title: "Teaching"
     url: /teaching/    
@@ -6,5 +6,5 @@ main:
   - title: "Blogs"
     url: /year-archive/    
 
-  - title: "Portfolio"
+  - title: "Project"
     url: /portfolio/   
