@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi everyone! I'm a third year undergraduate student from South China University of Technology. I haven't joined any research yet. But my interests include computer organization, computer network, computer operating systerm, digital signal process, embedded hardware developement.
+Hi everyone! I'm a fourth year undergraduate student from South China University of Technology. I haven't joined any research yet. But my interests include computer organization, computer network, computer operating systerm, digital signal process, embedded hardware developement.
 
 Email: youyiqi258@gmail.com                      Tel: 18861089518
 
